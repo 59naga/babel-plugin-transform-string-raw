@@ -27,6 +27,10 @@ npm install @59naga/babel-plugin-transform-string-raw --save
 
 replace `String.raw` with an [ponyfill function](https://github.com/59naga/string-raw).
 
+Requirement
+---
+> https://github.com/59naga/babel-plugin-transform-array-from
+
 Installation
 ---
 ```bash
