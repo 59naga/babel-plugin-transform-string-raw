@@ -43,8 +43,6 @@ Example
 **In**
 
 ```js
-const arg1 = 'foo';
-const arg2 = 'bar';
 String.raw`hoge${arg1}fuga${arg2}piyo`;
 ```
 
